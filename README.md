@@ -2,7 +2,21 @@
 
 ## Introduction
 
-Code to convert a Decimal Number to Roman Number.
+This repository contains code to convert a Decimal Number to a Roman Number.
+
+## Cloning the Project
+
+To clone this project from GitHub, use the following command in your terminal:
+
+```bash
+git clone https://github.com/saurabh-godigital/StudentslandingInc-task
+```
+
+After cloning, navigate to the StudentslandingInc-task directory:
+
+```bash
+cd StudentslandingInc-task
+```
 
 ## Installation
 
